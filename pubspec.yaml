@@ -39,7 +39,14 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_rating_bar: ^4.0.1
   clippy_flutter: ^2.0.0-nullsafety.1
- 
+  firebase_core: any
+  cloud_firestore: ^4.13.6
+  firebase_auth: ^4.15.3
+  firebase_storage: ^11.5.6
+  fluttertoast: ^8.2.4
+  font_awesome_flutter: ^10.6.0
+  google_sign_in: ^6.1.6
+  
 
 
 dev_dependencies:

@@ -35,7 +35,7 @@ class PopularItemsWidget extends StatelessWidget {
                         children: [
                           InkWell(
                             onTap: () {
-                              Navigator.pushNamed(context, "ItemPages");
+                              Navigator.pushNamed(context, "itemPage");
                             },
                             child: Container(
                               alignment: Alignment.center,
